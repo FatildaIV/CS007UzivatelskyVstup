@@ -1,0 +1,6 @@
+C:\Users\karel.hofman\OneDrive – SPS-CL\2. ročník\1. pololetí\Programování\C#\CS007UzivatelskyVstup\CS007UzivatelskyVstup\bin\Debug\CS007UzivatelskyVstup.exe.config
+C:\Users\karel.hofman\OneDrive – SPS-CL\2. ročník\1. pololetí\Programování\C#\CS007UzivatelskyVstup\CS007UzivatelskyVstup\bin\Debug\CS007UzivatelskyVstup.exe
+C:\Users\karel.hofman\OneDrive – SPS-CL\2. ročník\1. pololetí\Programování\C#\CS007UzivatelskyVstup\CS007UzivatelskyVstup\bin\Debug\CS007UzivatelskyVstup.pdb
+C:\Users\karel.hofman\OneDrive – SPS-CL\2. ročník\1. pololetí\Programování\C#\CS007UzivatelskyVstup\CS007UzivatelskyVstup\obj\Debug\CS007UzivatelskyVstup.csprojResolveAssemblyReference.cache
+C:\Users\karel.hofman\OneDrive – SPS-CL\2. ročník\1. pololetí\Programování\C#\CS007UzivatelskyVstup\CS007UzivatelskyVstup\obj\Debug\CS007UzivatelskyVstup.exe
+C:\Users\karel.hofman\OneDrive – SPS-CL\2. ročník\1. pololetí\Programování\C#\CS007UzivatelskyVstup\CS007UzivatelskyVstup\obj\Debug\CS007UzivatelskyVstup.pdb
